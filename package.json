@@ -1,5 +1,5 @@
 {
-  "name": "@ftbl/task",
+  "name": "@recipher/task",
   "version": "1.1.4",
   "description": "Background task manager",
   "main": "node index",
@@ -17,13 +17,13 @@
     "url": "git@github.com:projectftbl/task.git"
   },
   "dependencies": {
-    "@ftbl/configuration": "^1.0.1",
-    "@ftbl/redis": "^1.0.2",
+    "@recipher/configuration": "^1.0.1",
+    "@recipher/redis": "^1.0.2",
     "bluebird": "^2.9.34",
     "ioredis": "^1.9.0"
   },
   "devDependencies": {
-    "@ftbl/gulp": "^1.5.0",
+    "@recipher/gulp": "^1.5.0",
     "chai": "^3.4.1",
     "gulp": "^3.9.0",
     "mocha": "^2.3.4",
